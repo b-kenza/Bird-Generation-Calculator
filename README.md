@@ -35,7 +35,7 @@ Program:
 
 menu:
 
-<img width="586" alt="image" src="https://user-images.githubusercontent.com/71944848/161843741-25d8601a-6dfa-47ad-9338-34ae715c3728.png">
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/71944848/162196425-40124617-ed70-42e6-a063-56c4ecd13a94.png">
 
 Setting The Generation Values:
 
